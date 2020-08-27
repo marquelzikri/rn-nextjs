@@ -4,7 +4,9 @@
   "scripts": {
     "android": "lerna --scope=app run android --stream",
     "ios": "lerna --scope=app run ios --stream",
-    "webdev": "lerna --scope=web run dev --stream"
+    "web": "lerna --scope=web run dev --stream",
+    "buildweb": "lerna --scope=web run build --stream",
+    "startproductionweb": "lerna --scope=web run start --stream"
   },
   "workspaces": {
     "packages": [
