@@ -11,12 +11,8 @@
 
 #### Running the project
 
-##### Web (development)
+##### Web
 `yarn web`
-
-##### Web (production)
-- `yarn buildweb`
-- `yarn startproductionweb`
 
 #### Android
 `yarn android`
