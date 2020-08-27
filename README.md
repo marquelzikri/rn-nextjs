@@ -15,9 +15,8 @@
 `yarn run web`
 
 ##### Web (production)
-`yarn run buildweb`
-
-`yarn run startproductionweb`
+- `yarn run buildweb`
+- `yarn run startproductionweb`
 
 #### Android
 `yarn run android`
