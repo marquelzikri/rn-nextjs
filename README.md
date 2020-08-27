@@ -12,16 +12,16 @@
 #### Running the project
 
 ##### Web (development)
-`yarn run web`
+`yarn web`
 
 ##### Web (production)
-- `yarn run buildweb`
-- `yarn run startproductionweb`
+- `yarn buildweb`
+- `yarn startproductionweb`
 
 #### Android
-`yarn run android`
+`yarn android`
 
 #### iOS
-`yarn run ios`
+`yarn ios`
 
 if this is the first time you want to run on iOS, go to `cd packages/mobile/ios` and do `pod install` before you run.
